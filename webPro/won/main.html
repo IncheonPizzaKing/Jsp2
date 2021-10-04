@@ -1,0 +1,127 @@
+<!DOCTYPE html> ​
+<html> ​
+<meta charset="UTF-8">​
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<style>
+​ body {
+        background-color: #E7EAD9;
+    }
+    
+    .cs1 {
+        color: lightgreen;
+    }
+    
+    .cs2 {
+        margin: auto;
+        text-align: right;
+        border-spacing: 30px;
+    }
+}
+</style>
+
+<body> ​
+    <h1 class="cs3">&nbsp;&nbsp;Allergy Food</h1>
+    <div class="top">
+        <div class="w3-bar w3-pale-yellow">
+            <a href="main.html" class="w3-button w3-bar-item">메인</a>
+            <a href="kfood.html" class="w3-button w3-bar-item">한식</a>
+            <a href="cfood.html" class="w3-button w3-bar-item">중식</a>
+            <a href="wfood.html" class="w3-button w3-bar-item">양식</a>
+            <a href="allergyfood.html" class="w3-button w3-bar-item">알레르기</a>
+            <button class="w3-button w3-bar-item w3-right" onclick="document.getElementById('google').style.display='block'">검색</button>
+
+
+            <div id="google" class="w3-modal">
+                <div class="w3-modal-content w3-animate-zoom">
+                    <header class="w3-teal w3 center">
+                        <span class="w3-display-topright w3-button" onclick="document.getElementById('google').style.display='none'">Close</span>
+                        <h2>검 색</h2>
+                    </header>
+                    <div class="container1">
+                        <div class="w3-dropdown-hover w3-center w3-bar">
+                            <p> 전 체 </p>
+                            <div class="w3-dropdown-content w3-bar-block">
+                                <a href="#" class="w3-button w3-bar-item w3-light-grey"> 음 식 </a>
+                                <a href="#" class="w3-button w3-bar-item w3-light-grey"> 재 료</a>
+                            </div>
+                        </div>
+
+                        <input type="text" placeholder="검색어를 입력하세요" class="w3-border w3-input">
+                        <button class="w3-section" onclick="document.getElementById('google').style.display='none'">검색</button>
+
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <hr>
+    <div class="main">
+        <center><img src="mainfood1.jpg" width="700" height="400"></center>
+    </div>
+    <div class="main">
+        <center> <img src="mainfood2.jpg" width="700" height="400"></center>
+    </div>
+    <div class="main">
+        <center> <img src="mainfood3.jpg" width="700" height="400"></center>
+    </div>
+    <script>
+        var myIndex = 0;
+        slide_show();
+
+        function slide_show() {
+            var x = document.getElementsByClassName("main");
+            for (i = 0; i < x.length; i++) {
+                x[i].style.display = "none";
+            }
+            x[myIndex].style.display = "block";
+            myIndex++;
+            setTimeout(slide_show, 5000);
+            if (myIndex == 3) {
+                myIndex = 0;
+            }
+        }
+    </script>
+    <br><br>
+
+
+    <center>
+        <div class="w3-button w3-deep-orange">
+            <a href="../team_main.html">제휴 사이트</a></center>
+    <br>
+    <div id="content">
+        <table class="cs2">
+            <tr>
+                <td>
+                    <img src="m1.jpg" width="200" height="200">
+                    <div><a href="../hyeok/main.html" class="w3-button w3-bar-item w3-orange">레시피를 알고싶다면?</a><br>
+                        <h4>이혁준</h4>
+                    </div>
+                </td>
+                <td>
+                    <img src="m2.jpg" width="200" height="200">
+                    <div><a href="../you/main.html" class="w3-button w3-bar-item w3-orange">식자재 언제올까?</a><br>
+                        <h4>김유성</h4>
+                    </div>
+                </td>
+                <td>
+                    <img src="m3.jpg" width="200" height="200">
+                    <div><a href="../young/소스3.html" class="w3-button w3-bar-item w3-orange">무슨 게임할까?</a><br>
+                        <h4>김영도</h4>
+                    </div>
+                </td>
+
+                <td>
+                    <img src="m4.jpg" width="200" height="200">
+                    <div><a href="../woo/게임추천사이트.html" class="w3-button w3-bar-item w3-orange">그 게임 어디에 있지?</a><br>
+                        <h4>최우택</h4>
+                    </div>
+                </td>
+            </tr>
+        </table>
+
+
+</body> ​
+
+</html>​ ​ ​

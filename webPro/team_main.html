@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="team_style.css" type="text/css">
+    <link rel="preconnect" href="https://fonts.gstatic.com" type="text/css">
+</head>
+
+<body>
+    <!-- 메인 -->
+    <div class="main">
+        <!-- 해더 -->
+        <div class="header">
+            <!-- 로고 -->
+            <div class="logo">
+                <p><a href="main.html">TEAM3 FOOD & GAME</a></p>
+            </div>
+        </div>
+        <!-- 메인 배너 -->
+        <div class="mainBanner">
+            <div class="mainBannerIn">
+                <a href="hyeok/main.html">
+                    <img class="mainBannerImg" src="one.jpg" alt="">
+                </a>
+            </div>
+            <div class="mainBannerIn">
+                <a href="you/main.html">
+                    <img class="mainBannerImg" src="two.jpg" alt="">
+                </a>
+            </div>
+            <div class="mainBannerIn">
+                <a href="won/main.html">
+                    <img class="mainBannerImg" src="three.jpg" alt="">
+                </a>
+            </div>
+            <div class="mainBannerIn">
+                <a href="woo/게임추천사이트.html">
+                    <img class="mainBannerImg" src="four.jpg" alt="">
+                </a>
+            </div>
+            <div class="mainBannerIn">
+                <a href="young/소스3.html">
+                    <img class="mainBannerImg" src="five.jpg" alt="">
+                </a>
+            </div>
+        </div>
+        <!-- 음식 -->
+        <div class="food">
+            <!-- 음식 로고 -->
+            <div class="foodLogo">
+                <p>음식</p>
+            </div>
+            <!-- 음식 리스트 -->
+            <div class="foodList">
+                <ul>
+                    <li>
+                        <a href="hyeok/main.html" target="_blank">
+                            <img src="hyeok.png" alt="">
+                            <br>
+                            <p>집밥 한선생</p>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="you/main.html" target="_blank">
+                            <img src="you.png" alt="">
+                            <br>
+                            <p>Fresh Mall</p>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="won/main.html" target="_blank">
+                            <img src="won.png" alt="">
+                            <br>
+                            <p>Allergy Food</p>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <!-- 게임 -->
+        <div class="game">
+            <!-- 게임 로고 -->
+            <div class="gameLogo">
+                <p>게임</p>
+            </div>
+            <!-- 게임 리스트 -->
+            <div class="gameList">
+                <ul>
+                    <li>
+                        <a href="woo/게임추천사이트.html" target="_blank">
+                            <img src="woo.png" alt="">
+                            <br>
+                            <p>게임추천사이트</p>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="young/소스3.html" target="_blank">
+                            <img src="young.png" alt="">
+                            <br>
+                            <p>인기게임</p>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <script>
+        var index = 0;
+        slide_banner();
+
+        function slide_banner() {
+            var x = document.getElementsByClassName("mainBannerIn");
+            for (i = 0; i < x.length; i++) {
+                x[i].style.opacity = 0;
+                x[i].style.display = "none";
+            }
+            if (index == 5) {
+                index = 0;
+            }
+            x[index].style.opacity = 1;
+            x[index].style.display = "block";
+            index++;
+            setTimeout(slide_banner, 2000);
+        }
+    </script>
+</body>
+
+</html>

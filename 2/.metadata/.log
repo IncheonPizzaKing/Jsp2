@@ -1,0 +1,1046 @@
+!SESSION 2021-09-08 10:54:50.775 -----------------------------------------------
+eclipse.buildId=4.17.0.I20200902-1800
+java.version=14.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.ui 2 0 2021-09-08 10:55:58.418
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.bindings' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-09-08 10:55:58.418
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-09-08 10:55:58.419
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-09-08 10:55:58.419
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.next'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-09-08 10:55:58.419
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.next'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-09-08 10:55:58.419
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.previous'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-09-08 10:55:58.419
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.previous'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-09-08 10:55:58.419
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-09-08 10:55:58.419
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-09-08 10:55:58.419
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.source.quickMenu'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-09-08 10:55:58.419
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.source.quickMenu'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-09-08 10:55:58.419
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.add.import'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-09-08 10:55:58.419
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.organize.imports'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-09-08 10:55:58.419
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.refactor.quickMenu'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-09-08 10:55:58.419
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.refactor.quickMenu'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-09-08 10:55:58.419
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.rename.element'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-09-08 10:55:58.419
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.rename.element'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-09-08 10:55:58.419
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.move.element'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-09-08 10:55:58.419
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.move.element'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-09-08 10:55:58.419
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.modify.method.parameters'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-09-08 10:55:58.419
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.modify.method.parameters'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-09-08 10:55:58.419
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.inline'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-09-08 10:55:58.419
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.inline'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-09-08 10:55:58.419
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.extract.method'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-09-08 10:55:58.419
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.extract.method'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-09-08 10:55:58.419
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.extract.local.variable'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-09-08 10:55:58.419
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.extract.local.variable'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-09-08 10:55:58.419
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.open.hierarchy'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-09-08 10:55:58.419
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.TypeHierarchy'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-09-08 10:55:58.419
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.TypeHierarchy'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-09-08 10:55:58.419
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.PackageExplorer'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-09-08 10:55:58.419
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.PackageExplorer'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-09-08 10:55:58.419
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.SourceView'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-09-08 10:55:58.419
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.SourceView'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-09-08 10:55:58.419
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.JavadocView'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-09-08 10:55:58.419
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.JavadocView'
+
+!ENTRY org.eclipse.jface 2 0 2021-09-08 10:56:01.447
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-09-08 10:56:01.447
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@71e2ddd,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@8318808,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-09-08 10:56:15.554
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\User'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2021-09-08 11:02:46.869
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 1 10001 2021-09-08 11:02:46.869
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.869
+!MESSAGE "WST Server Adapters" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.869
+!MESSAGE "JAX-WS DOM Tools" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.869
+!MESSAGE "Wild Web Developer" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.869
+!MESSAGE "Eclipse Faceted Project Framework JDT Enablement" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.869
+!MESSAGE "JST Server Adapters Extensions (Apache Tomcat)" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.869
+!MESSAGE "Dali Java Persistence Tools - EclipseLink JAXB Support" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.869
+!MESSAGE "Eclipse Java EE Developer Tools" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.869
+!MESSAGE "JSF Tools" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.869
+!MESSAGE "Dali Java Persistence Tools - JAXB Support" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.869
+!MESSAGE "Eclipse Java Web Developer Tools" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.869
+!MESSAGE "JAX-WS Tools" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.869
+!MESSAGE "Node.js embedder from Wild Web Developer" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.869
+!MESSAGE "JST Server UI" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.869
+!MESSAGE "m2e-wtp - JPA configurator for WTP (Optional)" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.869
+!MESSAGE "m2e-wtp - Maven Integration for WTP" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.869
+!MESSAGE "Eclipse Web JavaScript Developer Tools" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.869
+!MESSAGE "Eclipse Java Web Developer Tools - JavaScript Support" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.869
+!MESSAGE "CXF Web Services" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.869
+!MESSAGE "Eclipse XML Editors and Tools" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.869
+!MESSAGE "Dali Java Persistence Tools - JPA Support" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.869
+!MESSAGE "Eclipse Web Developer Tools" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.869
+!MESSAGE "JST Server Adapters" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.869
+!MESSAGE "m2e-wtp - JSF configurator for WTP (Optional)" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.869
+!MESSAGE "m2e-wtp - JAX-RS configurator for WTP (Optional)" is already installed, so an update will be performed instead.
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2021-09-08 11:02:46.869
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2021-09-08 11:02:46.869
+!MESSAGE Software being installed: Eclipse XML Editors and Tools 3.22.0.v202103232331 (org.eclipse.wst.xml_ui.feature.feature.group 3.22.0.v202103232331)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2021-09-08 11:02:46.869
+!MESSAGE Software currently installed: Eclipse Platform 4.17.0.v20200902-1800 (org.eclipse.platform.feature.group 4.17.0.v20200902-1800)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-09-08 11:02:46.869
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-09-08 11:02:46.869
+!MESSAGE Core Runtime 3.22.0.v20210506-1025 (org.eclipse.core.runtime 3.22.0.v20210506-1025)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-09-08 11:02:46.869
+!MESSAGE Core Runtime 3.19.0.v20200724-1004 (org.eclipse.core.runtime 3.19.0.v20200724-1004)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-09-08 11:02:46.869
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-09-08 11:02:46.869
+!MESSAGE From: Eclipse Platform 4.17.0.v20200902-1800 (org.eclipse.platform.feature.group 4.17.0.v20200902-1800)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-09-08 11:02:46.869
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.core.runtime [3.19.0.v20200724-1004,3.19.0.v20200724-1004]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-09-08 11:02:46.869
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-09-08 11:02:46.869
+!MESSAGE From: Eclipse XML Editors and Tools 1.2.600.v202102222242 (org.eclipse.wst.xml.ui 1.2.600.v202102222242)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-09-08 11:02:46.869
+!MESSAGE To: osgi.bundle; org.eclipse.core.runtime [3.20.0,4.0.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-09-08 11:02:46.869
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-09-08 11:02:46.869
+!MESSAGE From: Eclipse XML Editors and Tools 3.22.0.v202103232331 (org.eclipse.wst.xml_ui.feature.feature.group 3.22.0.v202103232331)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-09-08 11:02:46.869
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.wst.xml.ui [1.2.600.v202102222242,1.2.600.v202102222242]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2021-09-08 11:02:46.880
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 1 10001 2021-09-08 11:02:46.880
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.880
+!MESSAGE "WST Server Adapters" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.880
+!MESSAGE "JAX-WS DOM Tools" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.880
+!MESSAGE "Wild Web Developer" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.880
+!MESSAGE "Eclipse Faceted Project Framework JDT Enablement" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.880
+!MESSAGE "JST Server Adapters Extensions (Apache Tomcat)" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.880
+!MESSAGE "Dali Java Persistence Tools - EclipseLink JAXB Support" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.880
+!MESSAGE "Eclipse Java EE Developer Tools" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.880
+!MESSAGE "JSF Tools" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.880
+!MESSAGE "Dali Java Persistence Tools - JAXB Support" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.880
+!MESSAGE "Eclipse Java Web Developer Tools" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.880
+!MESSAGE "JAX-WS Tools" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.880
+!MESSAGE "Node.js embedder from Wild Web Developer" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.880
+!MESSAGE "JST Server UI" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.880
+!MESSAGE "m2e-wtp - JPA configurator for WTP (Optional)" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.880
+!MESSAGE "m2e-wtp - Maven Integration for WTP" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.880
+!MESSAGE "Eclipse Web JavaScript Developer Tools" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.880
+!MESSAGE "Eclipse Java Web Developer Tools - JavaScript Support" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.880
+!MESSAGE "CXF Web Services" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.880
+!MESSAGE "Eclipse XML Editors and Tools" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.880
+!MESSAGE "Dali Java Persistence Tools - JPA Support" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.880
+!MESSAGE "Eclipse Web Developer Tools" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.880
+!MESSAGE "JST Server Adapters" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.880
+!MESSAGE "m2e-wtp - JSF configurator for WTP (Optional)" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.880
+!MESSAGE "m2e-wtp - JAX-RS configurator for WTP (Optional)" is already installed, so an update will be performed instead.
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2021-09-08 11:02:46.880
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2021-09-08 11:02:46.880
+!MESSAGE Software being installed: Eclipse XML Editors and Tools 3.22.0.v202103232331 (org.eclipse.wst.xml_ui.feature.feature.group 3.22.0.v202103232331)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2021-09-08 11:02:46.880
+!MESSAGE Software currently installed: Eclipse Platform 4.17.0.v20200902-1800 (org.eclipse.platform.feature.group 4.17.0.v20200902-1800)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-09-08 11:02:46.880
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-09-08 11:02:46.880
+!MESSAGE Core Runtime 3.22.0.v20210506-1025 (org.eclipse.core.runtime 3.22.0.v20210506-1025)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-09-08 11:02:46.880
+!MESSAGE Core Runtime 3.19.0.v20200724-1004 (org.eclipse.core.runtime 3.19.0.v20200724-1004)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-09-08 11:02:46.880
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-09-08 11:02:46.880
+!MESSAGE From: Eclipse Platform 4.17.0.v20200902-1800 (org.eclipse.platform.feature.group 4.17.0.v20200902-1800)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-09-08 11:02:46.880
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.core.runtime [3.19.0.v20200724-1004,3.19.0.v20200724-1004]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-09-08 11:02:46.881
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-09-08 11:02:46.881
+!MESSAGE From: Eclipse XML Editors and Tools 1.2.600.v202102222242 (org.eclipse.wst.xml.ui 1.2.600.v202102222242)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-09-08 11:02:46.881
+!MESSAGE To: osgi.bundle; org.eclipse.core.runtime [3.20.0,4.0.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-09-08 11:02:46.881
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-09-08 11:02:46.881
+!MESSAGE From: Eclipse XML Editors and Tools 3.22.0.v202103232331 (org.eclipse.wst.xml_ui.feature.feature.group 3.22.0.v202103232331)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-09-08 11:02:46.881
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.wst.xml.ui [1.2.600.v202102222242,1.2.600.v202102222242]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2021-09-08 11:02:46.925
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 1 10001 2021-09-08 11:02:46.925
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.925
+!MESSAGE "WST Server Adapters" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.925
+!MESSAGE "JAX-WS DOM Tools" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.925
+!MESSAGE "Wild Web Developer" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.925
+!MESSAGE "Eclipse Faceted Project Framework JDT Enablement" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.925
+!MESSAGE "JST Server Adapters Extensions (Apache Tomcat)" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.925
+!MESSAGE "Dali Java Persistence Tools - EclipseLink JAXB Support" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.925
+!MESSAGE "Eclipse Java EE Developer Tools" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.925
+!MESSAGE "JSF Tools" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.925
+!MESSAGE "Dali Java Persistence Tools - JAXB Support" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.925
+!MESSAGE "Eclipse Java Web Developer Tools" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.925
+!MESSAGE "JAX-WS Tools" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.925
+!MESSAGE "Node.js embedder from Wild Web Developer" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.925
+!MESSAGE "JST Server UI" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.925
+!MESSAGE "m2e-wtp - JPA configurator for WTP (Optional)" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.925
+!MESSAGE "m2e-wtp - Maven Integration for WTP" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.925
+!MESSAGE "Eclipse Web JavaScript Developer Tools" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.925
+!MESSAGE "Eclipse Java Web Developer Tools - JavaScript Support" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.925
+!MESSAGE "CXF Web Services" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.925
+!MESSAGE "Eclipse XML Editors and Tools" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.925
+!MESSAGE "Dali Java Persistence Tools - JPA Support" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.925
+!MESSAGE "Eclipse Web Developer Tools" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.925
+!MESSAGE "JST Server Adapters" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.925
+!MESSAGE "m2e-wtp - JSF configurator for WTP (Optional)" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.925
+!MESSAGE "m2e-wtp - JAX-RS configurator for WTP (Optional)" is already installed, so an update will be performed instead.
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2021-09-08 11:02:46.925
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2021-09-08 11:02:46.925
+!MESSAGE Software being installed: Eclipse XML Editors and Tools 3.22.0.v202103232331 (org.eclipse.wst.xml_ui.feature.feature.group 3.22.0.v202103232331)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2021-09-08 11:02:46.925
+!MESSAGE Software currently installed: Eclipse Platform 4.17.0.v20200902-1800 (org.eclipse.platform.feature.group 4.17.0.v20200902-1800)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-09-08 11:02:46.925
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-09-08 11:02:46.925
+!MESSAGE Core Runtime 3.22.0.v20210506-1025 (org.eclipse.core.runtime 3.22.0.v20210506-1025)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-09-08 11:02:46.925
+!MESSAGE Core Runtime 3.19.0.v20200724-1004 (org.eclipse.core.runtime 3.19.0.v20200724-1004)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-09-08 11:02:46.925
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-09-08 11:02:46.925
+!MESSAGE From: Eclipse Platform 4.17.0.v20200902-1800 (org.eclipse.platform.feature.group 4.17.0.v20200902-1800)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-09-08 11:02:46.925
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.core.runtime [3.19.0.v20200724-1004,3.19.0.v20200724-1004]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-09-08 11:02:46.925
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-09-08 11:02:46.925
+!MESSAGE From: Eclipse XML Editors and Tools 1.2.600.v202102222242 (org.eclipse.wst.xml.ui 1.2.600.v202102222242)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-09-08 11:02:46.925
+!MESSAGE To: osgi.bundle; org.eclipse.core.runtime [3.20.0,4.0.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-09-08 11:02:46.926
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-09-08 11:02:46.926
+!MESSAGE From: Eclipse XML Editors and Tools 3.22.0.v202103232331 (org.eclipse.wst.xml_ui.feature.feature.group 3.22.0.v202103232331)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-09-08 11:02:46.926
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.wst.xml.ui [1.2.600.v202102222242,1.2.600.v202102222242]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2021-09-08 11:02:46.926
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 1 10001 2021-09-08 11:02:46.926
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.926
+!MESSAGE "WST Server Adapters" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.926
+!MESSAGE "JAX-WS DOM Tools" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.926
+!MESSAGE "Wild Web Developer" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.926
+!MESSAGE "Eclipse Faceted Project Framework JDT Enablement" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.926
+!MESSAGE "JST Server Adapters Extensions (Apache Tomcat)" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.926
+!MESSAGE "Dali Java Persistence Tools - EclipseLink JAXB Support" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.926
+!MESSAGE "Eclipse Java EE Developer Tools" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.926
+!MESSAGE "JSF Tools" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.926
+!MESSAGE "Dali Java Persistence Tools - JAXB Support" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.926
+!MESSAGE "Eclipse Java Web Developer Tools" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.926
+!MESSAGE "JAX-WS Tools" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.926
+!MESSAGE "Node.js embedder from Wild Web Developer" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.926
+!MESSAGE "JST Server UI" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.926
+!MESSAGE "m2e-wtp - JPA configurator for WTP (Optional)" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.926
+!MESSAGE "m2e-wtp - Maven Integration for WTP" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.926
+!MESSAGE "Eclipse Web JavaScript Developer Tools" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.926
+!MESSAGE "Eclipse Java Web Developer Tools - JavaScript Support" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.926
+!MESSAGE "CXF Web Services" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.926
+!MESSAGE "Eclipse XML Editors and Tools" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.926
+!MESSAGE "Dali Java Persistence Tools - JPA Support" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.926
+!MESSAGE "Eclipse Web Developer Tools" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.926
+!MESSAGE "JST Server Adapters" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.926
+!MESSAGE "m2e-wtp - JSF configurator for WTP (Optional)" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2021-09-08 11:02:46.926
+!MESSAGE "m2e-wtp - JAX-RS configurator for WTP (Optional)" is already installed, so an update will be performed instead.
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2021-09-08 11:02:46.926
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2021-09-08 11:02:46.926
+!MESSAGE Software being installed: Eclipse XML Editors and Tools 3.22.0.v202103232331 (org.eclipse.wst.xml_ui.feature.feature.group 3.22.0.v202103232331)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2021-09-08 11:02:46.926
+!MESSAGE Software currently installed: Eclipse Platform 4.17.0.v20200902-1800 (org.eclipse.platform.feature.group 4.17.0.v20200902-1800)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-09-08 11:02:46.926
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-09-08 11:02:46.926
+!MESSAGE Core Runtime 3.22.0.v20210506-1025 (org.eclipse.core.runtime 3.22.0.v20210506-1025)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-09-08 11:02:46.926
+!MESSAGE Core Runtime 3.19.0.v20200724-1004 (org.eclipse.core.runtime 3.19.0.v20200724-1004)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-09-08 11:02:46.926
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-09-08 11:02:46.926
+!MESSAGE From: Eclipse Platform 4.17.0.v20200902-1800 (org.eclipse.platform.feature.group 4.17.0.v20200902-1800)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-09-08 11:02:46.926
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.core.runtime [3.19.0.v20200724-1004,3.19.0.v20200724-1004]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-09-08 11:02:46.926
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-09-08 11:02:46.926
+!MESSAGE From: Eclipse XML Editors and Tools 1.2.600.v202102222242 (org.eclipse.wst.xml.ui 1.2.600.v202102222242)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-09-08 11:02:46.926
+!MESSAGE To: osgi.bundle; org.eclipse.core.runtime [3.20.0,4.0.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2021-09-08 11:02:46.926
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-09-08 11:02:46.926
+!MESSAGE From: Eclipse XML Editors and Tools 3.22.0.v202103232331 (org.eclipse.wst.xml_ui.feature.feature.group 3.22.0.v202103232331)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2021-09-08 11:02:46.926
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.wst.xml.ui [1.2.600.v202102222242,1.2.600.v202102222242]
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 4 0 2021-09-08 11:03:18.607
+!MESSAGE Unexpected error loading extension: org.eclipse.equinox.p2.artifact.repository.compositeRepository
+!STACK 0
+java.lang.NullPointerException
+	at org.osgi.util.tracker.ServiceTracker.<init>(ServiceTracker.java:187)
+	at org.osgi.util.tracker.ServiceTracker.<init>(ServiceTracker.java:250)
+	at org.eclipse.ecf.internal.provider.filetransfer.httpclient45.Activator.getHttpClientFactory(Activator.java:241)
+	at org.eclipse.ecf.internal.provider.filetransfer.httpclient45.Activator.getBrowseHttpClient(Activator.java:266)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientBrowseFileTransferFactory$1.sendBrowseRequest(HttpClientBrowseFileTransferFactory.java:59)
+	at org.eclipse.ecf.provider.filetransfer.browse.MultiProtocolFileSystemBrowserAdapter.sendBrowseRequest(MultiProtocolFileSystemBrowserAdapter.java:97)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.sendBrowseRequest(FileInfoReader.java:184)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getRemoteFiles(FileInfoReader.java:109)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getRemoteFile(FileInfoReader.java:125)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getLastModified(FileInfoReader.java:130)
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.getLastModified(RepositoryTransport.java:249)
+	at org.eclipse.oomph.p2.internal.core.CachingTransport.delegateGetLastModified(CachingTransport.java:397)
+	at org.eclipse.oomph.p2.internal.core.CachingTransport.getLastModified(CachingTransport.java:346)
+	at org.eclipse.equinox.internal.p2.repository.CacheManager.createCache(CacheManager.java:229)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepositoryFactory.getLocalFile(CompositeArtifactRepositoryFactory.java:71)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepositoryFactory.load(CompositeArtifactRepositoryFactory.java:95)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.factoryLoad(ArtifactRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:775)
+	at jdk.internal.reflect.GeneratedMethodAccessor50.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:119)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:423)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:214)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Artifact.loadRepository(CachingRepositoryManager.java:562)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:131)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:125)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.load(CompositeArtifactRepository.java:496)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.addChild(CompositeArtifactRepository.java:177)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.<init>(CompositeArtifactRepository.java:99)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepositoryFactory.load(CompositeArtifactRepositoryFactory.java:120)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.factoryLoad(ArtifactRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:775)
+	at jdk.internal.reflect.GeneratedMethodAccessor50.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:119)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:423)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:214)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Artifact.loadRepository(CachingRepositoryManager.java:562)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:131)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:125)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.load(CompositeArtifactRepository.java:496)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.addChild(CompositeArtifactRepository.java:177)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.<init>(CompositeArtifactRepository.java:99)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepositoryFactory.load(CompositeArtifactRepositoryFactory.java:120)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.factoryLoad(ArtifactRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:775)
+	at jdk.internal.reflect.GeneratedMethodAccessor50.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:119)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:423)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:214)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Artifact.loadRepository(CachingRepositoryManager.java:562)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:131)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:125)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.getLoadedRepository(ProvisioningContext.java:189)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.getLoadedArtifactRepositories(ProvisioningContext.java:163)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.getArtifactRepositories(ProvisioningContext.java:149)
+	at org.eclipse.equinox.internal.p2.engine.DownloadManager.getArtifactRepositories(DownloadManager.java:110)
+	at org.eclipse.equinox.internal.p2.engine.DownloadManager.start(DownloadManager.java:95)
+	at org.eclipse.equinox.internal.p2.engine.phases.Collect.completePhase(Collect.java:111)
+	at org.eclipse.equinox.internal.p2.engine.Phase.postPerform(Phase.java:254)
+	at org.eclipse.equinox.internal.p2.engine.Phase.perform(Phase.java:105)
+	at org.eclipse.equinox.internal.p2.engine.PhaseSet.perform(PhaseSet.java:50)
+	at org.eclipse.equinox.internal.p2.engine.Engine.perform(Engine.java:80)
+	at org.eclipse.equinox.internal.p2.engine.Engine.perform(Engine.java:48)
+	at org.eclipse.equinox.p2.operations.ProvisioningSession.performProvisioningPlan(ProvisioningSession.java:181)
+	at org.eclipse.equinox.p2.operations.ProfileModificationJob.runModal(ProfileModificationJob.java:76)
+	at org.eclipse.equinox.p2.operations.ProvisioningJob.run(ProvisioningJob.java:188)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 4 0 2021-09-08 11:03:18.626
+!MESSAGE Unexpected error loading extension: org.eclipse.equinox.p2.updatesite.artifactRepository
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.equinox.internal.p2.updatesite.metadata.UpdateSiteMetadataRepositoryFactory.getLocalRepositoryLocation(UpdateSiteMetadataRepositoryFactory.java:39)
+	at org.eclipse.equinox.internal.p2.updatesite.artifact.UpdateSiteArtifactRepositoryFactory.loadRepository(UpdateSiteArtifactRepositoryFactory.java:89)
+	at org.eclipse.equinox.internal.p2.updatesite.artifact.UpdateSiteArtifactRepositoryFactory.load(UpdateSiteArtifactRepositoryFactory.java:59)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.factoryLoad(ArtifactRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:775)
+	at jdk.internal.reflect.GeneratedMethodAccessor50.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:119)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:423)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:214)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Artifact.loadRepository(CachingRepositoryManager.java:562)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:131)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:125)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.load(CompositeArtifactRepository.java:496)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.addChild(CompositeArtifactRepository.java:177)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.<init>(CompositeArtifactRepository.java:99)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepositoryFactory.load(CompositeArtifactRepositoryFactory.java:120)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.factoryLoad(ArtifactRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:775)
+	at jdk.internal.reflect.GeneratedMethodAccessor50.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:119)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:423)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:214)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Artifact.loadRepository(CachingRepositoryManager.java:562)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:131)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:125)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.load(CompositeArtifactRepository.java:496)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.addChild(CompositeArtifactRepository.java:177)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.<init>(CompositeArtifactRepository.java:99)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepositoryFactory.load(CompositeArtifactRepositoryFactory.java:120)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.factoryLoad(ArtifactRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:775)
+	at jdk.internal.reflect.GeneratedMethodAccessor50.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:119)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:423)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:214)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Artifact.loadRepository(CachingRepositoryManager.java:562)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:131)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:125)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.getLoadedRepository(ProvisioningContext.java:189)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.getLoadedArtifactRepositories(ProvisioningContext.java:163)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.getArtifactRepositories(ProvisioningContext.java:149)
+	at org.eclipse.equinox.internal.p2.engine.DownloadManager.getArtifactRepositories(DownloadManager.java:110)
+	at org.eclipse.equinox.internal.p2.engine.DownloadManager.start(DownloadManager.java:95)
+	at org.eclipse.equinox.internal.p2.engine.phases.Collect.completePhase(Collect.java:111)
+	at org.eclipse.equinox.internal.p2.engine.Phase.postPerform(Phase.java:254)
+	at org.eclipse.equinox.internal.p2.engine.Phase.perform(Phase.java:105)
+	at org.eclipse.equinox.internal.p2.engine.PhaseSet.perform(PhaseSet.java:50)
+	at org.eclipse.equinox.internal.p2.engine.Engine.perform(Engine.java:80)
+	at org.eclipse.equinox.internal.p2.engine.Engine.perform(Engine.java:48)
+	at org.eclipse.equinox.p2.operations.ProvisioningSession.performProvisioningPlan(ProvisioningSession.java:181)
+	at org.eclipse.equinox.p2.operations.ProfileModificationJob.runModal(ProfileModificationJob.java:76)
+	at org.eclipse.equinox.p2.operations.ProvisioningJob.run(ProvisioningJob.java:188)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 4 0 2021-09-08 11:03:18.628
+!MESSAGE Unexpected error loading extension: org.eclipse.equinox.p2.artifact.repository.simpleRepository
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.SimpleArtifactRepositoryIO.getLockLocation(SimpleArtifactRepositoryIO.java:187)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.SimpleArtifactRepositoryIO.canLock(SimpleArtifactRepositoryIO.java:141)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.SimpleArtifactRepositoryIO.read(SimpleArtifactRepositoryIO.java:96)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.SimpleArtifactRepositoryFactory.load(SimpleArtifactRepositoryFactory.java:112)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.SimpleArtifactRepositoryFactory.load(SimpleArtifactRepositoryFactory.java:80)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.factoryLoad(ArtifactRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:775)
+	at jdk.internal.reflect.GeneratedMethodAccessor50.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:119)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:423)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:214)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Artifact.loadRepository(CachingRepositoryManager.java:562)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:131)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:125)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.restoreSpecialRepositories(ArtifactRepositoryManager.java:158)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.restoreRepositories(AbstractRepositoryManager.java:1020)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.getRepositoryProperty(AbstractRepositoryManager.java:562)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:248)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Artifact.loadRepository(CachingRepositoryManager.java:562)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:131)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:125)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.load(CompositeArtifactRepository.java:496)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.addChild(CompositeArtifactRepository.java:177)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.<init>(CompositeArtifactRepository.java:99)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepositoryFactory.load(CompositeArtifactRepositoryFactory.java:120)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.factoryLoad(ArtifactRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:775)
+	at jdk.internal.reflect.GeneratedMethodAccessor50.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:119)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:423)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:214)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Artifact.loadRepository(CachingRepositoryManager.java:562)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:131)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:125)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.load(CompositeArtifactRepository.java:496)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.addChild(CompositeArtifactRepository.java:177)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.<init>(CompositeArtifactRepository.java:99)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepositoryFactory.load(CompositeArtifactRepositoryFactory.java:120)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.factoryLoad(ArtifactRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:775)
+	at jdk.internal.reflect.GeneratedMethodAccessor50.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:119)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:423)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:214)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Artifact.loadRepository(CachingRepositoryManager.java:562)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:131)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:125)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.getLoadedRepository(ProvisioningContext.java:189)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.getLoadedArtifactRepositories(ProvisioningContext.java:163)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.getArtifactRepositories(ProvisioningContext.java:149)
+	at org.eclipse.equinox.internal.p2.engine.DownloadManager.getArtifactRepositories(DownloadManager.java:110)
+	at org.eclipse.equinox.internal.p2.engine.DownloadManager.start(DownloadManager.java:95)
+	at org.eclipse.equinox.internal.p2.engine.phases.Collect.completePhase(Collect.java:111)
+	at org.eclipse.equinox.internal.p2.engine.Phase.postPerform(Phase.java:254)
+	at org.eclipse.equinox.internal.p2.engine.Phase.perform(Phase.java:105)
+	at org.eclipse.equinox.internal.p2.engine.PhaseSet.perform(PhaseSet.java:50)
+	at org.eclipse.equinox.internal.p2.engine.Engine.perform(Engine.java:80)
+	at org.eclipse.equinox.internal.p2.engine.Engine.perform(Engine.java:48)
+	at org.eclipse.equinox.p2.operations.ProvisioningSession.performProvisioningPlan(ProvisioningSession.java:181)
+	at org.eclipse.equinox.p2.operations.ProfileModificationJob.runModal(ProfileModificationJob.java:76)
+	at org.eclipse.equinox.p2.operations.ProvisioningJob.run(ProvisioningJob.java:188)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 4 0 2021-09-08 11:03:18.630
+!MESSAGE Unexpected error loading extension: org.eclipse.equinox.p2.updatesite.artifactRepository
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.equinox.internal.p2.updatesite.metadata.UpdateSiteMetadataRepositoryFactory.getLocalRepositoryLocation(UpdateSiteMetadataRepositoryFactory.java:39)
+	at org.eclipse.equinox.internal.p2.updatesite.artifact.UpdateSiteArtifactRepositoryFactory.loadRepository(UpdateSiteArtifactRepositoryFactory.java:89)
+	at org.eclipse.equinox.internal.p2.updatesite.artifact.UpdateSiteArtifactRepositoryFactory.load(UpdateSiteArtifactRepositoryFactory.java:59)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.factoryLoad(ArtifactRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:775)
+	at jdk.internal.reflect.GeneratedMethodAccessor50.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:119)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:423)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:214)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Artifact.loadRepository(CachingRepositoryManager.java:562)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:131)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:125)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.restoreSpecialRepositories(ArtifactRepositoryManager.java:158)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.restoreRepositories(AbstractRepositoryManager.java:1020)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.getRepositoryProperty(AbstractRepositoryManager.java:562)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:248)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Artifact.loadRepository(CachingRepositoryManager.java:562)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:131)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:125)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.load(CompositeArtifactRepository.java:496)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.addChild(CompositeArtifactRepository.java:177)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.<init>(CompositeArtifactRepository.java:99)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepositoryFactory.load(CompositeArtifactRepositoryFactory.java:120)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.factoryLoad(ArtifactRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:775)
+	at jdk.internal.reflect.GeneratedMethodAccessor50.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:119)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:423)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:214)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Artifact.loadRepository(CachingRepositoryManager.java:562)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:131)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:125)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.load(CompositeArtifactRepository.java:496)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.addChild(CompositeArtifactRepository.java:177)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.<init>(CompositeArtifactRepository.java:99)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepositoryFactory.load(CompositeArtifactRepositoryFactory.java:120)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.factoryLoad(ArtifactRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:775)
+	at jdk.internal.reflect.GeneratedMethodAccessor50.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:119)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:423)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:214)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Artifact.loadRepository(CachingRepositoryManager.java:562)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:131)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:125)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.getLoadedRepository(ProvisioningContext.java:189)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.getLoadedArtifactRepositories(ProvisioningContext.java:163)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.getArtifactRepositories(ProvisioningContext.java:149)
+	at org.eclipse.equinox.internal.p2.engine.DownloadManager.getArtifactRepositories(DownloadManager.java:110)
+	at org.eclipse.equinox.internal.p2.engine.DownloadManager.start(DownloadManager.java:95)
+	at org.eclipse.equinox.internal.p2.engine.phases.Collect.completePhase(Collect.java:111)
+	at org.eclipse.equinox.internal.p2.engine.Phase.postPerform(Phase.java:254)
+	at org.eclipse.equinox.internal.p2.engine.Phase.perform(Phase.java:105)
+	at org.eclipse.equinox.internal.p2.engine.PhaseSet.perform(PhaseSet.java:50)
+	at org.eclipse.equinox.internal.p2.engine.Engine.perform(Engine.java:80)
+	at org.eclipse.equinox.internal.p2.engine.Engine.perform(Engine.java:48)
+	at org.eclipse.equinox.p2.operations.ProvisioningSession.performProvisioningPlan(ProvisioningSession.java:181)
+	at org.eclipse.equinox.p2.operations.ProfileModificationJob.runModal(ProfileModificationJob.java:76)
+	at org.eclipse.equinox.p2.operations.ProvisioningJob.run(ProvisioningJob.java:188)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 4 0 2021-09-08 11:03:18.632
+!MESSAGE Unexpected error loading extension: org.eclipse.equinox.p2.artifact.repository.compositeRepository
+!STACK 0
+org.eclipse.oomph.util.ReflectUtil$ReflectionException: java.lang.IllegalStateException: BundleContext is no longer valid org.eclipse.equinox.p2.repository_2.4.800.v20200813-0739 [364]
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:134)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.removeRepository(CachingRepositoryManager.java:444)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:244)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Artifact.loadRepository(CachingRepositoryManager.java:562)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:131)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:125)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.restoreSpecialRepositories(ArtifactRepositoryManager.java:158)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.restoreRepositories(AbstractRepositoryManager.java:1020)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.getRepositoryProperty(AbstractRepositoryManager.java:562)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:248)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Artifact.loadRepository(CachingRepositoryManager.java:562)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:131)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:125)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.load(CompositeArtifactRepository.java:496)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.addChild(CompositeArtifactRepository.java:177)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.<init>(CompositeArtifactRepository.java:99)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepositoryFactory.load(CompositeArtifactRepositoryFactory.java:120)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.factoryLoad(ArtifactRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:775)
+	at jdk.internal.reflect.GeneratedMethodAccessor50.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:119)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:423)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:214)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Artifact.loadRepository(CachingRepositoryManager.java:562)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:131)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:125)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.load(CompositeArtifactRepository.java:496)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.addChild(CompositeArtifactRepository.java:177)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.<init>(CompositeArtifactRepository.java:99)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepositoryFactory.load(CompositeArtifactRepositoryFactory.java:120)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.factoryLoad(ArtifactRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:775)
+	at jdk.internal.reflect.GeneratedMethodAccessor50.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:119)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:423)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:214)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Artifact.loadRepository(CachingRepositoryManager.java:562)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:131)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:125)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.getLoadedRepository(ProvisioningContext.java:189)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.getLoadedArtifactRepositories(ProvisioningContext.java:163)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.getArtifactRepositories(ProvisioningContext.java:149)
+	at org.eclipse.equinox.internal.p2.engine.DownloadManager.getArtifactRepositories(DownloadManager.java:110)
+	at org.eclipse.equinox.internal.p2.engine.DownloadManager.start(DownloadManager.java:95)
+	at org.eclipse.equinox.internal.p2.engine.phases.Collect.completePhase(Collect.java:111)
+	at org.eclipse.equinox.internal.p2.engine.Phase.postPerform(Phase.java:254)
+	at org.eclipse.equinox.internal.p2.engine.Phase.perform(Phase.java:105)
+	at org.eclipse.equinox.internal.p2.engine.PhaseSet.perform(PhaseSet.java:50)
+	at org.eclipse.equinox.internal.p2.engine.Engine.perform(Engine.java:80)
+	at org.eclipse.equinox.internal.p2.engine.Engine.perform(Engine.java:48)
+	at org.eclipse.equinox.p2.operations.ProvisioningSession.performProvisioningPlan(ProvisioningSession.java:181)
+	at org.eclipse.equinox.p2.operations.ProfileModificationJob.runModal(ProfileModificationJob.java:76)
+	at org.eclipse.equinox.p2.operations.ProvisioningJob.run(ProvisioningJob.java:188)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.lang.IllegalStateException: BundleContext is no longer valid org.eclipse.equinox.p2.repository_2.4.800.v20200813-0739 [364]
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.checkValid(BundleContextImpl.java:1027)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.getServiceReference(BundleContextImpl.java:595)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.getServiceReference(BundleContextImpl.java:1057)
+	at org.eclipse.equinox.internal.p2.core.helpers.ServiceHelper.getService(ServiceHelper.java:32)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.getPreferences(AbstractRepositoryManager.java:497)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.removeRepository(AbstractRepositoryManager.java:945)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:119)
+	... 57 more
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 4 0 2021-09-08 11:03:18.633
+!MESSAGE Unexpected error loading extension: org.eclipse.equinox.p2.artifact.repository.compositeRepository
+!STACK 0
+org.eclipse.oomph.util.ReflectUtil$ReflectionException: java.lang.NullPointerException
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:134)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:423)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:214)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Artifact.loadRepository(CachingRepositoryManager.java:562)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:131)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:125)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.load(CompositeArtifactRepository.java:496)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.addChild(CompositeArtifactRepository.java:177)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.<init>(CompositeArtifactRepository.java:99)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepositoryFactory.load(CompositeArtifactRepositoryFactory.java:120)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.factoryLoad(ArtifactRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:775)
+	at jdk.internal.reflect.GeneratedMethodAccessor50.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:119)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:423)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:214)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Artifact.loadRepository(CachingRepositoryManager.java:562)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:131)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:125)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.getLoadedRepository(ProvisioningContext.java:189)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.getLoadedArtifactRepositories(ProvisioningContext.java:163)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.getArtifactRepositories(ProvisioningContext.java:149)
+	at org.eclipse.equinox.internal.p2.engine.DownloadManager.getArtifactRepositories(DownloadManager.java:110)
+	at org.eclipse.equinox.internal.p2.engine.DownloadManager.start(DownloadManager.java:95)
+	at org.eclipse.equinox.internal.p2.engine.phases.Collect.completePhase(Collect.java:111)
+	at org.eclipse.equinox.internal.p2.engine.Phase.postPerform(Phase.java:254)
+	at org.eclipse.equinox.internal.p2.engine.Phase.perform(Phase.java:105)
+	at org.eclipse.equinox.internal.p2.engine.PhaseSet.perform(PhaseSet.java:50)
+	at org.eclipse.equinox.internal.p2.engine.Engine.perform(Engine.java:80)
+	at org.eclipse.equinox.internal.p2.engine.Engine.perform(Engine.java:48)
+	at org.eclipse.equinox.p2.operations.ProvisioningSession.performProvisioningPlan(ProvisioningSession.java:181)
+	at org.eclipse.equinox.p2.operations.ProfileModificationJob.runModal(ProfileModificationJob.java:76)
+	at org.eclipse.equinox.p2.operations.ProvisioningJob.run(ProvisioningJob.java:188)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.lang.NullPointerException
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.findMatchingRepositoryExtensions(AbstractRepositoryManager.java:405)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:770)
+	at jdk.internal.reflect.GeneratedMethodAccessor50.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:119)
+	... 35 more
+
+!ENTRY org.eclipse.equinox.p2.engine 4 4 2021-09-08 11:03:18.634
+!MESSAGE An error occurred while committing the engine session for profile: C__Users_User_eclipse_jee-2020-09_eclipse.
+!SUBENTRY 1 org.eclipse.equinox.p2.engine 4 0 2021-09-08 11:03:18.634
+!MESSAGE An error occurred while undoing the org.eclipse.equinox.internal.p2.engine.phases.Collect phase.
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.equinox.internal.p2.engine.EngineSession.getProfileDataDirectory(EngineSession.java:81)
+	at org.eclipse.equinox.internal.p2.engine.Phase.prePerform(Phase.java:117)
+	at org.eclipse.equinox.internal.p2.engine.EngineSession.rollBackPhase(EngineSession.java:233)
+	at org.eclipse.equinox.internal.p2.engine.EngineSession.rollback(EngineSession.java:182)
+	at org.eclipse.equinox.internal.p2.engine.Engine.perform(Engine.java:89)
+	at org.eclipse.equinox.internal.p2.engine.Engine.perform(Engine.java:48)
+	at org.eclipse.equinox.p2.operations.ProvisioningSession.performProvisioningPlan(ProvisioningSession.java:181)
+	at org.eclipse.equinox.p2.operations.ProfileModificationJob.runModal(ProfileModificationJob.java:76)
+	at org.eclipse.equinox.p2.operations.ProvisioningJob.run(ProvisioningJob.java:188)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.equinox.p2.engine 4 4 2021-09-08 11:03:18.635
+!MESSAGE An error occurred while collecting items to be installed
+!SUBENTRY 1 org.eclipse.equinox.p2.engine 4 0 2021-09-08 11:03:18.635
+!MESSAGE session context was:(profile=C__Users_User_eclipse_jee-2020-09_eclipse, phase=org.eclipse.equinox.internal.p2.engine.phases.Collect, operand=, action=).
+!SUBENTRY 1 org.eclipse.equinox.p2.engine 4 0 2021-09-08 11:03:18.635
+!MESSAGE java.lang.NullPointerException
+!STACK 0
+org.eclipse.oomph.util.ReflectUtil$ReflectionException: java.lang.NullPointerException
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:134)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:423)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:214)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Artifact.loadRepository(CachingRepositoryManager.java:562)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:131)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:125)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.getLoadedRepository(ProvisioningContext.java:189)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.getLoadedArtifactRepositories(ProvisioningContext.java:163)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.getArtifactRepositories(ProvisioningContext.java:149)
+	at org.eclipse.equinox.internal.p2.engine.DownloadManager.getArtifactRepositories(DownloadManager.java:110)
+	at org.eclipse.equinox.internal.p2.engine.DownloadManager.start(DownloadManager.java:95)
+	at org.eclipse.equinox.internal.p2.engine.phases.Collect.completePhase(Collect.java:111)
+	at org.eclipse.equinox.internal.p2.engine.Phase.postPerform(Phase.java:254)
+	at org.eclipse.equinox.internal.p2.engine.Phase.perform(Phase.java:105)
+	at org.eclipse.equinox.internal.p2.engine.PhaseSet.perform(PhaseSet.java:50)
+	at org.eclipse.equinox.internal.p2.engine.Engine.perform(Engine.java:80)
+	at org.eclipse.equinox.internal.p2.engine.Engine.perform(Engine.java:48)
+	at org.eclipse.equinox.p2.operations.ProvisioningSession.performProvisioningPlan(ProvisioningSession.java:181)
+	at org.eclipse.equinox.p2.operations.ProfileModificationJob.runModal(ProfileModificationJob.java:76)
+	at org.eclipse.equinox.p2.operations.ProvisioningJob.run(ProvisioningJob.java:188)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.lang.NullPointerException
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.findMatchingRepositoryExtensions(AbstractRepositoryManager.java:405)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:770)
+	at jdk.internal.reflect.GeneratedMethodAccessor50.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:119)
+	... 20 more
+!SESSION 2021-09-08 11:03:21.881 -----------------------------------------------
+eclipse.buildId=4.17.0.I20200902-1800
+java.version=14.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.ui 2 0 2021-09-08 11:03:35.714
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.bindings' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-09-08 11:03:35.714
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-09-08 11:03:35.714
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-09-08 11:03:35.714
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.next'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-09-08 11:03:35.714
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.next'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-09-08 11:03:35.714
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.previous'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-09-08 11:03:35.714
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.previous'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-09-08 11:03:35.714
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-09-08 11:03:35.715
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-09-08 11:03:35.715
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.source.quickMenu'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-09-08 11:03:35.715
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.source.quickMenu'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-09-08 11:03:35.715
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.add.import'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-09-08 11:03:35.715
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.organize.imports'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-09-08 11:03:35.715
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.refactor.quickMenu'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-09-08 11:03:35.715
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.refactor.quickMenu'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-09-08 11:03:35.715
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.rename.element'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-09-08 11:03:35.715
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.rename.element'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-09-08 11:03:35.715
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.move.element'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-09-08 11:03:35.715
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.move.element'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-09-08 11:03:35.715
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.modify.method.parameters'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-09-08 11:03:35.715
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.modify.method.parameters'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-09-08 11:03:35.715
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.inline'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-09-08 11:03:35.715
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.inline'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-09-08 11:03:35.715
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.extract.method'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-09-08 11:03:35.715
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.extract.method'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-09-08 11:03:35.715
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.extract.local.variable'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-09-08 11:03:35.715
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.extract.local.variable'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-09-08 11:03:35.715
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.open.hierarchy'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-09-08 11:03:35.715
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.TypeHierarchy'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-09-08 11:03:35.715
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.TypeHierarchy'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-09-08 11:03:35.715
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.PackageExplorer'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-09-08 11:03:35.715
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.PackageExplorer'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-09-08 11:03:35.715
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.SourceView'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-09-08 11:03:35.715
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.SourceView'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-09-08 11:03:35.715
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.JavadocView'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-09-08 11:03:35.715
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.JavadocView'
+
+!ENTRY org.eclipse.jface 2 0 2021-09-08 11:03:36.520
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-09-08 11:03:36.520
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2b6a4da7,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@75b6bd41,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-09-08 11:03:41.736
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\User'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-09-08 11:05:37.191
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-09-08 11:05:37.197
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-09-08 11:06:22.393
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-09-08 11:06:22.394
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-09-08 11:06:22.394
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-09-08 11:10:54.727
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-09-08 11:10:54.728
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-09-08 11:10:54.728
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-09-08 11:10:58.494
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-09-08 11:10:58.494
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-09-08 11:10:58.495
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT

@@ -1,0 +1,154 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gugi&display=swap');
+* {
+    font-family: 'Noto Sans KR', sans-serif;
+    list-style: none;
+    text-decoration: none;
+    border-collapse: collapse;
+    margin: 0px;
+    padding: 0px;
+    color: #000;
+    background-color: aliceblue;
+}
+
+li a:hover {
+    color: red;
+}
+
+.header {
+    max-width: 100%;
+    min-width: 1080px;
+    height: 68px;
+}
+
+.logo {
+    max-width: 100%;
+    min-width: 1080px;
+    padding: 15px 0px 15px 0px;
+    text-align: center;
+}
+
+.logo p a {
+    font-family: 'Gugi', cursive;
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(0, 100, 214);
+}
+
+.mainBanner {
+    max-width: 100%;
+    min-width: 1080px;
+    height: 200px;
+}
+
+.mainBannerIn {
+    width: 990px;
+    height: 200px;
+    margin: auto;
+}
+
+.mainBanner div a img {
+    width: 990px;
+    height: 200px;
+}
+
+.food {
+    max-width: 100%;
+    min-width: 1080px;
+}
+
+.foodLogo {
+    max-width: 100%;
+    min-width: 1080px;
+    padding: 15px;
+}
+
+.foodLogo p {
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+}
+
+.foodList {
+    max-width: 100%;
+    min-width: 1080px;
+    height: 304px;
+}
+
+.foodList ul {
+    width: 990px;
+    margin: auto;
+}
+
+.foodList ul li {
+    float: left;
+    padding: 0px 15px 15px 15px;
+}
+
+.foodList ul li img {
+    width: 300px;
+    height: 260px;
+}
+
+.foodList ul li p {
+    text-align: center;
+}
+
+.game {
+    max-width: 100%;
+    min-width: 1080px;
+}
+
+.gameLogo {
+    max-width: 100%;
+    min-width: 1080px;
+    padding: 15px;
+}
+
+.gameLogo p {
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+}
+
+.gameList {
+    max-width: 100%;
+    min-width: 1080px;
+    height: 304px;
+}
+
+.gameList ul {
+    width: 660px;
+    margin: auto;
+}
+
+.gameList ul li {
+    float: left;
+    padding: 0px 15px 15px 15px;
+}
+
+.gameList ul li img {
+    width: 300px;
+    height: 260px;
+}
+
+.gameList ul li p {
+    text-align: center;
+}
+
+.game {
+    max-width: 100%;
+    min-width: 1080px;
+}
+
+.gameLogo {
+    max-width: 100%;
+    min-width: 1080px;
+    padding: 15px;
+}
+
+.gameLogo p {
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+}

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+</head>
+
+<body>
+    <div id="ticketModal" class="w3-modal">
+        <div class="w3-modal-content w3-animate-top">
+            <header class="w3-teal w3-center">
+                <span class="w3-display-topright w3-button" onclick="document.getElementById('ticketModal').style.display='none'">X</span>
+                <h2>Tickets</h2>
+            </header>
+            <div class="w3-container">
+                <p>Tickets, $15 per person</p>
+                <input type="text" placeholder="How many?" class="w3-border w3-input">
+                <p>Send to</p>
+                <input type="text" placeholder="Enter email" class="w3-border w3-input">
+
+                <button class="w3-block w3-teal w3-section">PAY</button>
+                <button class="w3-section w3-red" onclick="document.getElementById('ticketModal').style.display='none'">Close</button>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

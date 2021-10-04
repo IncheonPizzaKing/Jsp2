@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css" type="text/css">
+    <link rel="preconnect" href="https://fonts.gstatic.com" type="text/css">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <!-- 메인 -->
+    <div class="main">
+        <!-- 해더 -->
+        <div class="header">
+            <!-- 로고 -->
+            <div class="logo">
+                <p><a href="main.html">집밥 한선생</a></p>
+            </div>
+            <!-- 검색창 -->
+            <div class="searchArea">
+                <input type="search" placeholder="검색">
+            </div>
+        </div>
+        <!-- 메인메뉴 -->
+        <div class="nav">
+            <ul>
+                <li>
+                    <a href="ingridient_vegitable.html">식재료</a>
+                    <ul>
+                        <li><a href="ingridient_vegitable.html">채소</a></li>
+                        <li><a href="ingridient_fruit.html">과일</a></li>
+                        <li><a href="ingridient_spice.html">향신료</a></li>
+                        <li><a href="ingridient_beef.html">육류</a></li>
+                        <li><a href="ingridient_seafood.html">어류</a></li>
+                        <li><a href="ingridient_sauce.html">소스</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="recipe_dduck.html">레시피</a>
+                    <ul>
+                        <li><a href="recipe_dduck.html">한식</a></li>
+                        <li><a href="recipe_steak.html">양식</a></li>
+                        <li><a href="recipe_jja.html">중식</a></li>
+                        <li><a href="recipe_udong.html">일식</a></li>
+                    </ul>
+                </li>
+                <li><a href="">랭킹</a></li>
+                <li><a href="">사이트맵</a></li>
+            </ul>
+        </div>
+        <div class="product">
+            <div class="product_in">
+                <div class="product_img">
+                    <img src="img/hanrabong.jpg" alt="">
+                </div>
+                <div class="product_intro">
+                    <p class="product_title">한라봉</p>
+                    <br>
+                    <p class="product_price"><span style="font-size: 30px;">30,000</span>원</p>
+                    <br>
+                    <hr>
+                    <ul class="product_skima">
+                        <ul>
+                            <li class="product_type">판매단위</li>
+                            <li class="product_input">1박스</li>
+                        </ul>
+                        <ul>
+                            <li class="product_type">중량/용량</li>
+                            <li class="product_input">800g</li>
+                        </ul>
+                    </ul>
+                    <hr>
+                    <ul class="product_skima">
+                        <li class="product_type">배송구분</li>
+                        <li class="product_input">택배배송</li>
+                    </ul>
+                    <hr>
+                    <ul class="product_skima">
+                        <li class="product_type">원산지</li>
+                        <li class="product_input">국내산</li>
+                    </ul>
+                    <hr>
+                    <ul class="product_skima">
+                        <li class="product_type">포장타입</li>
+                        <li class="product_input">냉장</li>
+                    </ul>
+                    <hr>
+                    <ul class="product_skima">
+                        <li class="product_type">유통기한</li>
+                        <li class="product_input">농산물이라 별도의 유통기한은 없으나 가급적 빠르게 드시기 바랍니다.</li>
+                    </ul>
+                    <hr>
+                    <ul class="product_skima">
+                        <li class="product_type">당도</li>
+                        <li class="product_input">12 brix 이상</li>
+                    </ul>
+                    <hr>
+                    <ul class="product_skima">
+                        <li class="product_type">안내사항</li>
+                        <li class="product_input">식품 특성상 중량은 3% 내외의 차이가 발생할 수 있습니다.</li>
+                    </ul>
+                    <hr>
+                    <ul class="product_skima">
+                        <li class="product_type">구매수량</li>
+                        <li class="product_input">
+                            <button onclick="document.getElementById('number').value--">-</button>
+                            <input id="number" type="number" readonly="readonly" value="1">
+                            <button onclick="document.getElementById('number').value++">+</button>
+                        </li>
+                    </ul>
+                    <hr>
+                    <div class="product_skima">
+                        <button class="purchase">구매하기</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

@@ -1,0 +1,11 @@
+h2 { color: teal; }
+img { width: 400px; height: 250px; }
+a {text-decoration: none;}
+body { background-color: #000a29; }
+li a:hover{background-color: red;}
+p {color: white;}
+ul{width: 15%;
+	background-color: skyblue;
+	position: fixed;
+	height: 100%;}
+#content{margin-left: 20%;}

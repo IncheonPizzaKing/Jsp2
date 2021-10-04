@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<link rel="stylesheet" type="text/css" href="css/h_2color.css">
+<head>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="https://www.w3schools.com/w3css/4/w3.css">
+	<title>게임추천 사이트</title>
+</head>
+<body>
+<div class="w3-top">
+<div class="w3-bar w3-black">
+<a href="#" class="w3-button w3-bar-item">HOME</a>
+<a href="#Steam" class="w3-button w3-bar-item">STEAM</a>
+<a href="#Epic" class="w3-button w3-bar-item">EPIC STORE</a>
+<a href="#Origin" class="w3-button w3-bar-item">ORIGIN</a>
+
+<div class="w3-dropdown-hover">
+	<button>MORE </button>
+		<div class="w3-dropdown-content w3-bar-black w3-aqua">
+			<a href="#" class="w3-button w3-bar-item">Indie Games</a>
+			<a href="#" class="w3-button w3-bar-item">MMORPG Games</a>
+			<a href="#" class="w3-button w3-bar-item">AOS Games</a>
+			<a href="#" class="w3-button w3-bar-item">Racing Games</a>
+			<a href="#" class="w3-button w3-bar-item">other</a>
+		</div>
+</div>
+<a href="로그인.html" class="w3-button w3-right">로그인</a>
+<a href="javascript:void(0)" class="w3-button w3-right">검색</a>
+</div>
+</div>
+<hr>
+<ul>
+	<ul type="circle">
+		<h4>게임 장르 목록</h4>
+		<li><a href="#Action">액션</a></li>
+		<li><a href="#Shooting">슈팅</a></li>
+		<li><a href="#horror">공포</a></li>
+		<li><a href="#Puzzle">퍼즐</a></li>
+		<li><a href="#Rhythm">리듬</a></li>
+	</ul>
+</ul>
+<div id="content">
+	<h1 style="color: white">PC 게임 대표 플랫폼</h1>
+	<div class="mySlides w3-display-container">
+	<img src="imgs/스팀로고.jpg" style="width: 100%; height: 700px">
+	<div class="w3-display-topmiddle w3-text-white">
+	<h3>스팀</h3>
+	<b>밸브 코퍼레이션에서 개발하고 운영 중인 세계 최대 규모의 전자 게임 소프트웨어 유통망.</b>
+</div></div>
+<div class="mySlides w3-display-container">
+	<img src="imgs/에픽로고.jpg" style="width: 100%; height: 700px">
+	<div class="w3-display-topleft w3-text-red">
+
+	<h3>에픽게임즈</h3>
+	<b>에픽게임즈 스토어는 에픽게임즈에서 개발하고 운영 중인 패키지 게임 유통망이다.</b>
+	</div></div>
+<div class="mySlides w3-display-container">
+	<img src="imgs/오리진로고.jpg" style="width: 100%; height: 700px">
+	<div class="w3-display-left">
+	<h3>오리진</h3>
+	<b>일렉트로닉 아츠의 온라인 유통 체제.</b>
+	</div></div>
+	<script>
+		var myIndex=0;
+		slide_show();
+
+		function slide_show(){
+			var x = document.getElementsByClassName("mySlides");
+			for (i = 0; i<x.length; i++) {
+				x[i].style.display="none";
+			}
+			x[myIndex].style.display="block";
+			myIndex++;
+			setTimeout(slide_show,2000);
+			if(myIndex==3){myIndex=0;}
+		}
+	</script>
+
+<hr>
+<div id="Action"><a href="몬헌라이즈.html" target="_blank"><img src="imgs/액션1.jpg"></a><img src="imgs/액션2.jpg"><img src="imgs/액션3.jpg"><a href="https://store.steampowered.com/tags/ko/%EC%95%A1%EC%85%98/" target="_blank"><h2>액션</a></h2><p>
+기본적으로는 버튼을 조작하여 캐릭터를 움직이는 게임 전반을 가리키므로 매우 폭넓은 장르를 포함하는 분류다. 초기 게임 역사에는 게임 장르의 한축을 맡았지만 아주 기본적인 요소인지라 후기로 갈수록 다양한 장르와 결합되어 발전해나갔다. 따라서 현재 시판되는 게임들 중에서 순수 액션 게임은 거의 없지만 액션 게임 자체가 사라진 것은 아니다. 너무나 당연한 요소인지라 거의 모든 게임들이 기본적으로 탑재하고 있을 뿐이다.</p><hr></div>
+
+<div id="Shooting"><img src="imgs/슈팅1.jpg"><img src="imgs/슈팅2.jpg"><img src="imgs/슈팅3.jpg"><a href="https://store.steampowered.com/tags/ko/%EC%8A%88%ED%8C%85/" target="_blank"><h2>슈팅</a></h2><p>
+비교적 간단한 게임의 구조와 조작성 덕분에 게임계 역사의 초창기부터 존재하였던 장르다. 다른 장르의 게임 등에 비해 간단한 제작 과정과 게임 방식(쏘고 피한다)이라는 점이 특징인지라 아마추어 게임 제작계에서 가장 활발히 제작이 이루어지고 있는 장르이기도 하다.</p><hr></div>
+<div id="horror"><img src="imgs/공포1.jpg"><img src="imgs/공포2.jpg"><img src="imgs/공포3.jpg"><a href="https://store.steampowered.com/tags/ko/%EA%B3%B5%ED%8F%AC/" target="_blank"><h2>공포</a></h2><p>
+호러 게임이라고도 하며 말 그대로 공포감을 주는 것으로 재미를 느끼게 하는 게임이다.</p><hr></div>
+
+<div id="Puzzle"><img src="imgs/퍼즐1.jpg"><img src="imgs/퍼즐2.jpg"><img src="imgs/퍼즐3.jpg"><a href="https://store.steampowered.com/tags/ko/%ED%8D%BC%EC%A6%90/" target="_blank"><h2>퍼즐</a></h2><p>
+퍼즐의 사전적 정의는 '어려운 문제, 깊이 생각하게 만드는 문제'이며, 게임의 장르적 의미에서의 퍼즐 게임은 어떠한 규칙 내에서 정해진 행위를 통해 주어진 조건을 완료해 클리어하는 단순한 게임을 지칭한다. 게임의 특성상 변수가 전혀 없거나 극히 드물다는 특성이 있다.</p><hr></div>
+
+<div id="Rhythm"><img src="imgs/리듬1.jpg"><img src="imgs/리듬2.jpg"><img src="imgs/리듬3.jpg"><a href="https://store.steampowered.com/tags/ko/%EB%A6%AC%EB%93%AC/" target="_blank"><h2>리듬</a></h2><p>
+플레이어가 리듬이나 음악에 맞춰서 조작하거나 동작을 취해야 하거나 게임 진행에서 음악이나 리듬이 주 요소가 되는 게임 장르.</p><hr></div>
+</div>
+</body>
+</html> 
